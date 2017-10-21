@@ -1,0 +1,16 @@
+// body{}
+.container{
+    height: calc(100% - 2em);
+    background: rgb(136, 95, 152);
+    width: 50%;
+    margin: auto;
+}
+
+.users-list h1{
+    font-weight: bold;
+} 
+
+.user.selected{
+    background: yellow;
+}
+

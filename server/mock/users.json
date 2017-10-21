@@ -1,0 +1,21 @@
+[
+    {
+        "id": "01",
+        "first_name": "Gal",
+        "last_name": "Ackerman",
+        "type": "ceo",
+        "manager": []
+    },
+    {
+        "id": "02",
+        "first_name": "Shmuel",
+        "last_name": "Levi",
+        "type": "worker"        
+    },
+    {
+        "id": "03",
+        "first_name": "Mani",
+        "last_name": "Manage",
+        "type": "manager"        
+    }
+]
